@@ -9,3 +9,5 @@ OK. Great. Now I will add this text and this should then again pushed to server.
 Right. I will continue here and will do not fetch from server.
 
 So i made this a new master version. 
+
+And added this part here.
