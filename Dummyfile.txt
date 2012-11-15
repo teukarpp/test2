@@ -11,3 +11,5 @@ Right. I will continue here and will do not fetch from server.
 So i made this a new master version. 
 
 And added this part here.
+
+now its 14:23
