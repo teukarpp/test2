@@ -3,3 +3,5 @@ this is a new file
 ok new line here.
 
 added in the server
+
+OK. Great. Now I will add this text and this should then again pushed to server. Right.
